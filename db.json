@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "lastname": "tinky", "firstname": "winky", "taille": "172", "poids": "60", "refMedicament": "AAAAAA" },
-    { "id": 2, "lastname": "dispy", "firstname": "az", "taille": "180", "poids": "80", "refMedicament": "BBBBBBB" },
-    { "id": 3, "lastname": "lala", "firstname": "po", "taille": "155", "poids": "45", "refMedicament": "" }
+    { "lastname": "tinky", "firstname": "winky", "taille": "172", "poids": "60", "refMedicament": "AAAAAA" },
+    { "lastname": "dispy", "firstname": "az", "taille": "180", "poids": "80", "refMedicament": "BBBBBBB" },
+    { "lastname": "lala", "firstname": "po", "taille": "155", "poids": "45", "refMedicament": "" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
