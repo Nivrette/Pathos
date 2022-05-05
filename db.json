@@ -4,6 +4,10 @@
     { "id": 1, "lastname": "dispy", "firstname": "az", "taille": 111, "poids": 55, "refMedicament": "BBBBBBB"},
     { "id": 1, "lastname": "lala", "firstname": "po", "taille": 145, "poids": 90, "refMedicament": "VVVVVV"},
   ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
   "profile": {
     "name": "Nivrette"
   }
